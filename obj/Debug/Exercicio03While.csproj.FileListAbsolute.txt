@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\Exercicio03While\bin\Debug\Exercicio03While.exe.config
+C:\Users\lucas\source\repos\Exercicio03While\bin\Debug\Exercicio03While.exe
+C:\Users\lucas\source\repos\Exercicio03While\bin\Debug\Exercicio03While.pdb
+C:\Users\lucas\source\repos\Exercicio03While\obj\Debug\Exercicio03While.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Exercicio03While\obj\Debug\Exercicio03While.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Exercicio03While\obj\Debug\Exercicio03While.exe
+C:\Users\lucas\source\repos\Exercicio03While\obj\Debug\Exercicio03While.pdb
